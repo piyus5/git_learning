@@ -12,7 +12,7 @@
 
 console.log(undefined == 0); //false
 
-console.log("3" === 3);  // it checks strictly as it compares as well as checks its data type
+console.log("3" === 3);  // it checks strictly as it compares as well as checks its data type 
 
 
 
