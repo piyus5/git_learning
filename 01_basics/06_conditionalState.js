@@ -1,13 +1,13 @@
-let number = prompt("Enter a Number: ");
+let number = prompt("Enter a number: ");
 if (number % 5 === 0){
     console.log(number, "is multiple of 5");
-} else {
-    console.log(number, "is multiple of 5");
-}
+    } else {
+        console.log(number, "is not multiple of 5");
+        }
 
 
-
-let score = 85;
+ 
+let score = prompt("Enter your score (0-100): ");
 let grade;
 
 if(score >= 90 && score <= 100) {
